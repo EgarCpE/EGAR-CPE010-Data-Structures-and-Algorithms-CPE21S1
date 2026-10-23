@@ -11,7 +11,6 @@
 <img src="https://github.com/EgarCpE.png" alt="Jarel Dave R. Egar" width="200" height="200" style="border-radius: 70%;" />
 
 
-</div>
 
 | Field | Details |
 | :--- | :--- |
@@ -21,6 +20,7 @@
 | **Course Code** | CPE010 |
 | **Instructor** | Engr. Jimlord M. Quejado |
 
+</div>
 ---
 
 ## 📁 REPOSITORY DIRECTORY

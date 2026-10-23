@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+| :--- | :--- |
 | **Name** | Jarel Dave R. Egar |
 | **Program** | BSCPE |
 | **Year & Section** | 2nd Year / CPE21S1 |

@@ -8,7 +8,7 @@
 ## 👤 INTRODUCTION
 
 <!-- Un-comment and update src when ready to add profile picture:-->
-<img src="./assets/profile.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 70%;" />
+<img src="https://github.com/EgarCpE.png" alt="Jarel Dave R. Egar" width="200" height="200" style="border-radius: 70%;" />
 
 
 </div>

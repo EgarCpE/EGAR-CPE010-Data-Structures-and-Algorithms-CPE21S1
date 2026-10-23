@@ -10,7 +10,7 @@
 <!-- Un-comment and update src when ready to add profile picture:-->
 <img src="https://github.com/EgarCpE.png" alt="Jarel Dave R. Egar" width="200" height="200" style="border-radius: 70%;" />
 
-
+<p>First Word&nbsp;&nbsp;&nbsp;&nbsp;Second Word</p>
 
 | Field | Details |
 | :--- | :--- |
@@ -21,7 +21,7 @@
 | **Instructor** | Engr. Jimlord M. Quejado |
 
 </div>
----
+
 
 ## 📁 REPOSITORY DIRECTORY
 

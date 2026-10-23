@@ -1,5 +1,5 @@
 <div align="center">
-## 🖥 DATA STRUCTURES AND ALGORITHMS 🖥
+<h1> 🖥 DATA STRUCTURES AND ALGORITHMS 🖥 </h1>
 
   <img src="DSA Front Page.png">
 <p>This repository is a compilation of my Hands-on Activities for CPE010.</p>

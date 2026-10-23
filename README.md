@@ -1,11 +1,9 @@
 <div align="center">
 
-# 🖥 DATA STRUCTURES AND ALGORITHMS
+# 🖥 DATA STRUCTURES AND ALGORITHMS 🖥
 <p>This repository is a compilation of my Hands-on Activities for CPE010.</p>
 
----
-
-##  👦 INTRODUCTION
+##  INTRODUCTION
 
 <!-- Un-comment and update src when ready to add profile picture:-->
 <img src="https://github.com/EgarCpE.png" alt="Jarel Dave R. Egar" width="200" height="200" style="border-radius: 70%;" />
